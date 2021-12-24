@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">View Traverse</string>
+    <string name="our_first_activity">Our first activity</string>
+    <string name="goto_2nd_activity">Goto 2nd Activity</string>
+</resources>
